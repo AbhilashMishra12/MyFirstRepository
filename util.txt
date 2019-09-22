@@ -1,1 +1,2 @@
-This is the utility file of version two (Changed from local and pushed to remote) 
+This is the utility file of version two (Changed from local and pushed to remote
+Changes after ignoring.) 
